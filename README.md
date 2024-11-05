@@ -11,9 +11,7 @@ In addition to my work on Rosie, I had the opportunity to present my findings in
 
 **Let’s connect if you're interested in AI solutions, pattern-matching languages, or innovative software development!**
 
---- 
 
-This version provides a fuller picture of your work, accomplishments, and skills, making your profile more engaging and informative.
 
 <!---
 Kgsanderson93/Kgsanderson93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
