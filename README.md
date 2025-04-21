@@ -6,7 +6,7 @@ Currently, I’m contributing to the *Rosie Project* at NC State, where we're de
 
 In addition to my work on Rosie, I had the opportunity to present my findings in *Moving Beyond Parsing Expression Grammars* at the [SouthEast Regional Programming Languages Seminar](https://the-au-forml-lab.github.io/SERPL/events/2023/) in Augusta, GA. You can find the abstract [here](https://the-au-forml-lab.github.io/SERPL/events/2023/abstracts/Moving_Beyond_Parsing_Expression_Grammars.pdf).
 
-💻 **Skills**: C, Lua, Python, Java, MySQL, Angular, and Spring Boot.  
+💻 **Skills**: C++, C, Lua, Python, Java, MySQL, Angular, and Spring Boot.  
 📂 **Projects**: Check out my repositories for more on my work and interests!
 
 **Let’s connect if you're interested in AI solutions, pattern-matching languages, or innovative software development!**
